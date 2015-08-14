@@ -1,0 +1,5 @@
+C:\Users\Gordon\Documents\Visual Studio 2008\Projects\CoinPuzzle\CoinPuzzle\bin\Debug\CoinPuzzle.exe
+C:\Users\Gordon\Documents\Visual Studio 2008\Projects\CoinPuzzle\CoinPuzzle\bin\Debug\CoinPuzzle.pdb
+C:\Users\Gordon\Documents\Visual Studio 2008\Projects\CoinPuzzle\CoinPuzzle\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gordon\Documents\Visual Studio 2008\Projects\CoinPuzzle\CoinPuzzle\obj\Debug\CoinPuzzle.exe
+C:\Users\Gordon\Documents\Visual Studio 2008\Projects\CoinPuzzle\CoinPuzzle\obj\Debug\CoinPuzzle.pdb

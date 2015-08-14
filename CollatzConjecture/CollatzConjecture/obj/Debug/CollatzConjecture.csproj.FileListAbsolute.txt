@@ -1,0 +1,6 @@
+Z:\Dropbox\Programming\University work 2015\Second Semester\C-sharp development\Labs\CollatzConjecture\CollatzConjecture\bin\Debug\CollatzConjecture.exe.config
+Z:\Dropbox\Programming\University work 2015\Second Semester\C-sharp development\Labs\CollatzConjecture\CollatzConjecture\bin\Debug\CollatzConjecture.exe
+Z:\Dropbox\Programming\University work 2015\Second Semester\C-sharp development\Labs\CollatzConjecture\CollatzConjecture\bin\Debug\CollatzConjecture.pdb
+Z:\Dropbox\Programming\University work 2015\Second Semester\C-sharp development\Labs\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.csprojResolveAssemblyReference.cache
+Z:\Dropbox\Programming\University work 2015\Second Semester\C-sharp development\Labs\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.exe
+Z:\Dropbox\Programming\University work 2015\Second Semester\C-sharp development\Labs\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.pdb
