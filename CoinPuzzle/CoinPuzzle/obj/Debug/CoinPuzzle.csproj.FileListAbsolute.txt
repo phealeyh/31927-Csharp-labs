@@ -10,3 +10,5 @@ R:\courses\31927_32998_Application_Development\Tuts\CoinPuzzle\CoinPuzzle\obj\De
 Z:\Dropbox\Programming\University work 2015\Second Semester\C-sharp development\Labs\CoinPuzzle\CoinPuzzle\obj\Debug\CoinPuzzle.exe
 Z:\Dropbox\Programming\University work 2015\Second Semester\C-sharp development\Labs\CoinPuzzle\CoinPuzzle\obj\Debug\CoinPuzzle.pdb
 Z:\Dropbox\Programming\University work 2015\Second Semester\C-sharp development\Labs\CoinPuzzle\CoinPuzzle\obj\Debug\CoinPuzzle.csprojResolveAssemblyReference.cache
+Z:\Dropbox\Programming\University work 2015\Second Semester\C-sharp development\Labs\CoinPuzzle\CoinPuzzle\bin\Debug\CoinPuzzle.exe
+Z:\Dropbox\Programming\University work 2015\Second Semester\C-sharp development\Labs\CoinPuzzle\CoinPuzzle\bin\Debug\CoinPuzzle.pdb

@@ -10,7 +10,6 @@ namespace CoinPuzzle
         static void Main(string[] args)
         {
             CoinRow cr = new CoinRow();
-            C
             // set up coin puzzle
             cr.PrintCoin();
             cr.ScrambleRow();

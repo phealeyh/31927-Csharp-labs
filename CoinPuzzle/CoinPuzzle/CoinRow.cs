@@ -7,14 +7,24 @@ namespace CoinPuzzle
 {
     class CoinRow
     {
+
         private const int ROWSIZE = 5;
         private Coin[] Coins;
 
         public CoinRow()
         {
             Coins = new Coin[ROWSIZE];
+            setUpArray(Coins);
+        }
 
-            // extra code to go here
+        private void setUpArray(Coin[] coins)
+        {
+            //initialize the array to given values
+            for (int i = 0; i < ROWSIZE; i++)
+            {
+                Coins[i] = new Coin();
+            }
+
         }
 
         /// <summary>
@@ -42,6 +52,9 @@ namespace CoinPuzzle
         /// </summary>
         public void Operation1()
         {
+            Coins[0].FlipCoin();
+            Coins[2].FlipCoin();
+            Coins[4].FlipCoin();
             // complete this method
         }
 
@@ -50,7 +63,7 @@ namespace CoinPuzzle
         /// </summary>
         public void Operation2()
         {
-            if (Coins[0].SideUp == CoinSide.HEAD)
+            if (Coins[0].SideUp() == CoinSide.HEAD)
             {
                 Coins[1].FlipCoin();
                 Coins[2].FlipCoin();
@@ -67,6 +80,9 @@ namespace CoinPuzzle
         /// </summary>
         public void Operation3()
         {
+            Coin temp = Coins[0];
+            Coins[0] = Coins[3];
+            Coins[3] = temp;
             // complete this method
         }
 
@@ -78,7 +94,7 @@ namespace CoinPuzzle
             // print the coins in the row
             for (int i=0; i<ROWSIZE; i++)
             {
-                if (Coins[i].SideUp == CoinSide.HEAD)
+                if (Coins[i].SideUp() == CoinSide.HEAD)
                     Console.Write("H");
                 else
                     Console.Write("T");
@@ -94,7 +110,7 @@ namespace CoinPuzzle
         {
             for (int i = 0; i < ROWSIZE; i++)
             {
-                if (Coins[i].SideUp != CoinSide.HEAD) return false;
+                if (Coins[i].SideUp() != CoinSide.HEAD) return false;
             }
             return true;
         }
