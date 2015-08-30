@@ -5,6 +5,7 @@ using System.Text;
 
 namespace CoinPuzzle
 {
+
     enum CoinSide { HEAD, TAIL };
 
     class Coin

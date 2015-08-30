@@ -18,6 +18,7 @@ namespace CoinPuzzle
 
             // run coin puzzle
             string input;
+            //loop until the row is full ofh eads
             while (!cr.AllHeadsUp())
             {
                 input = Console.ReadLine();

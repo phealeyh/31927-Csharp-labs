@@ -17,6 +17,7 @@ namespace CoinPuzzle
             setUpArray(Coins);
         }
 
+
         private void setUpArray(Coin[] coins)
         {
             //initialize the array to given values
