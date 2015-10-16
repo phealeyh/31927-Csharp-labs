@@ -14,6 +14,5 @@ namespace Stat
             double sdv = Stats.stdDev(array);
             Console.WriteLine("Standard deviation of array = " + sdv);
         }
-
     }
 }

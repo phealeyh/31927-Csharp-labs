@@ -36,7 +36,6 @@ namespace Stat
                 double difference = max - x;
                 difference = difference * difference;
                 variance += difference;
-                // complete code for variance
             }
             return variance /= (array.Count - 1); //should this be just array.count ?
         }
